@@ -70,7 +70,7 @@ int main() {
     printf("💰 PIB:                   R$ %.2f milhões\n", pib1);
     printf("📸 Pontos Turísticos:     %d\n", pntoturis1);
 
-    printf("\n==================================================\n"); 
+    printf("\n==================================================\n");
     printf("📄 INFORMAÇÕES DA CARTA 2\n");
     printf("--------------------------------------------------\n");
     printf("🌎 Estado:                %s\n", state2);
